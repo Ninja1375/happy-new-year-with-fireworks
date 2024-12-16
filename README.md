@@ -36,42 +36,50 @@ Um projeto interativo em HTML, CSS e JavaScript que celebra a chegada do Ano Nov
 Clone ou faça o download deste repositório para o seu computador:
 
    ```bash
-   git clone https://github.com/Ninja1375/feliz-ano-novo.git
+   git clone https://github.com/Ninja1375/happy-new-year-with-fireworks.git
    ```
 **2. Configuração**
 
 Certifique-se de que os seguintes arquivos estejam no mesmo diretório:
 
-index.html
-script.js
-fireworks.mp3 (arquivo de áudio para os fogos de artifício).
-3. Executar o Projeto
-Abra o arquivo index.html diretamente no navegador.
+`index.html`
+`script.js`
+`fireworks.mp3` (arquivo de áudio para os fogos de artifício).
+
+**3. Executar o Projeto**
+
+Abra o arquivo `index.html` diretamente no navegador.
 No navegador móvel ou desktop, clique no botão "Iniciar Fogos" para ativar o áudio.
-🌟 Personalização
-Mensagens
-Para alterar as mensagens exibidas, edite o array str no arquivo script.js:
 
-javascript
-Copiar código
-let str = ['FELIZ', 'ANO', 'NOVO', '2025'];
-Áudio
-Para usar outro som de fogos, substitua o arquivo fireworks.mp3 por outro arquivo de áudio (preferencialmente no formato .mp3) no mesmo diretório.
+## 🌟 Personalização
 
-Cores e Estilo
-Altere as cores, fontes ou outros estilos diretamente no script.js ou crie um arquivo style.css para adicionar personalizações visuais.
-🖼️ Capturas de Tela
-💻 Visualização no Desktop
-(Adicione aqui uma captura de tela do projeto em execução no desktop)
+**Mensagens**
 
-📱 Visualização no Dispositivo Móvel
-(Adicione aqui uma captura de tela do projeto em execução no dispositivo móvel)
+Para alterar as mensagens exibidas, edite o array str no arquivo `script.js`:
 
-🛠️ Tecnologias Utilizadas
-HTML5: Estrutura da página.
-CSS3: Para estilos adicionais (se aplicável).
-JavaScript: Lógica para animações, fogos de artifício e som.
-🤝 Contribuições
+   ```javascript
+   let str = ['FELIZ', 'ANO', 'NOVO', '2025'];
+   ```
+**Áudio***
+
+Para usar outro som de fogos, substitua o arquivo ```fireworks.mp3``` por outro arquivo de áudio (preferencialmente no formato .mp3) no mesmo diretório.
+
+**Cores e Estilo**
+
+Altere as cores, fontes ou outros estilos diretamente no `script.js` ou crie um arquivo `style.css` para adicionar personalizações visuais.
+
+## 🖼️ Capturas de Tela
+
+Em Breve!
+
+## 🛠️ Tecnologias Utilizadas
+
+**HTML**: Estrutura da página.
+
+**JavaScript**: Lógica para animações, fogos de artifício e som.
+
+## 🤝 Contribuições
+
 Contribuições são muito bem-vindas! Para contribuir:
 
 Faça um fork do projeto.
