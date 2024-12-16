@@ -22,9 +22,8 @@ Um projeto interativo em HTML, CSS e JavaScript que celebra a chegada do Ano Nov
 ## 📁 Estrutura do Projeto
 
 ```plaintext
-.
+
 ├── index.html       # Estrutura HTML principal
-├── style.css        # Estilos personalizados (opcional)
 ├── script.js        # Lógica de animação e fogos de artifício
 ├── fireworks.mp3    # Áudio de fogos de artifício
 └── README.md        # Documentação do projeto
