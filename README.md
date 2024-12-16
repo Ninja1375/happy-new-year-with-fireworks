@@ -1,4 +1,4 @@
-# 🎆 Feliz Ano Novo - Animação de Fogos de Artifício 🎇
+# 🎆 Happy New Year with Fireworks 🎇
 
 Um projeto interativo em HTML, CSS e JavaScript que celebra a chegada do Ano Novo com uma animação vibrante de fogos de artifício e mensagens animadas. Experimente uma combinação visual e sonora que deixa o momento ainda mais especial!
 
