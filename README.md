@@ -15,7 +15,7 @@ Um projeto interativo em HTML, CSS e JavaScript que celebra a chegada do Ano Nov
 
 ## 🚀 Demonstração
 
-🌐 **Link da Demonstração ao Vivo**: *(Adicione o link do GitHub Pages ou outra plataforma de hospedagem aqui)*
+🌐 **Link da Demonstração ao Vivo**:
 
 ---
 
