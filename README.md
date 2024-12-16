@@ -31,14 +31,17 @@ Um projeto interativo em HTML, CSS e JavaScript que celebra a chegada do Ano Nov
 
 ## 🔧 Como Usar
 
-1. Clonar o Repositório
+**1. Clonar o Repositório**
+
 Clone ou faça o download deste repositório para o seu computador:
 
-bash
-Copiar código
-git clone https://github.com/seu-usuario/feliz-ano-novo.git
-2. Configuração
+   ```bash
+   git clone https://github.com/Ninja1375/feliz-ano-novo.git
+   ```
+**2. Configuração**
+
 Certifique-se de que os seguintes arquivos estejam no mesmo diretório:
+
 index.html
 script.js
 fireworks.mp3 (arquivo de áudio para os fogos de artifício).
