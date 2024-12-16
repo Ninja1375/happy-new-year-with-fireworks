@@ -17,6 +17,8 @@ Um projeto interativo em HTML, CSS e JavaScript que celebra a chegada do Ano Nov
 
 🌐 **Link da Demonstração ao Vivo**:
 
+**[Happy New Year with Fireworks](https://ninja1375.github.io/happy-new-year-with-fireworks/)**
+
 ---
 
 ## 📁 Estrutura do Projeto
