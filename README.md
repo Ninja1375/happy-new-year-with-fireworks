@@ -60,7 +60,7 @@ Para alterar as mensagens exibidas, edite o array `str` no arquivo `script.js`:
    ```javascript
    let str = ['FELIZ', 'ANO', 'NOVO', '2025'];
    ```
-**Áudio***
+**Áudio**
 
 Para usar outro som de fogos, substitua o arquivo ```fireworks.mp3``` por outro arquivo de áudio (preferencialmente no formato .mp3) no mesmo diretório.
 
