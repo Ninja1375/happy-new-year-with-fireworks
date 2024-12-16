@@ -55,7 +55,7 @@ No navegador móvel ou desktop, clique no botão "Iniciar Fogos" para ativar o �
 
 **Mensagens**
 
-Para alterar as mensagens exibidas, edite o array str no arquivo `script.js`:
+Para alterar as mensagens exibidas, edite o array `str` no arquivo `script.js`:
 
    ```javascript
    let str = ['FELIZ', 'ANO', 'NOVO', '2025'];
@@ -82,17 +82,14 @@ Em Breve!
 
 Contribuições são muito bem-vindas! Para contribuir:
 
-Faça um fork do projeto.
-Crie uma nova branch: git checkout -b minha-feature.
-Faça as alterações e commit: git commit -m "Minha nova feature".
-Envie para o repositório principal: git push origin minha-feature.
-Abra um pull request.
-📝 Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
+1. Faça um fork do projeto.
 
-📧 Contato
-Criado por [Seu Nome ou Usuário do GitHub].
-📩 E-mail: seu-email@example.com
-🐙 GitHub: https://github.com/seu-usuario
+2. Crie uma nova branch: `git checkout -b minha-feature`.
+
+3. Faça as alterações e commit: `git commit -m "Minha nova feature"`.
+
+4. Envie para o repositório principal: `git push origin minha-feature`.
+
+5. Abra um pull request.
 
 🎉 Feliz Ano Novo! Aproveite o projeto e celebre em grande estilo! 🎆
