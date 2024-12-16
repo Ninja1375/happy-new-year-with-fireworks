@@ -27,10 +27,10 @@ Um projeto interativo em HTML, CSS e JavaScript que celebra a chegada do Ano Nov
 ├── script.js        # Lógica de animação e fogos de artifício
 ├── fireworks.mp3    # Áudio de fogos de artifício
 └── README.md        # Documentação do projeto
+```
 
-fireworks.mp3    # Áudio de fogos de artifício
-└── README.md        # Documentação do projeto
-🔧 Como Usar
+## 🔧 Como Usar
+
 1. Clonar o Repositório
 Clone ou faça o download deste repositório para o seu computador:
 
