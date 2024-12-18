@@ -72,7 +72,8 @@ Altere as cores, fontes ou outros estilos diretamente no `script.js` ou crie um 
 
 ## 🖼️ Capturas de Tela
 
-Em Breve!
+![Feliz Ano Novo com Fogos de Artifício ](https://github.com/user-attachments/assets/be778daf-db4a-4844-ae3f-08a226d47409)
+
 
 ## 🛠️ Tecnologias Utilizadas
 
